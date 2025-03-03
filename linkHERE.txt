@@ -1,2 +1,1 @@
-Added the Tutorial Character and we now never hae to hard code the 'MemoryFragment' into inventory at the begining as he now gives you the fragment after interaction! 
-https://editor.p5js.org/aexli2/sketches/UsRYYxoMe
+https://editor.p5js.org/kpate519/full/84TH-WedW
